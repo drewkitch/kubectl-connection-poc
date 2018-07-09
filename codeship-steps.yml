@@ -1,2 +1,2 @@
 - service: k8s-controller
-  command: kubectl cluster-info
+  command: kubectl config view
